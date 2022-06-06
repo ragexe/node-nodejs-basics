@@ -1,0 +1,3 @@
+[submodule "nodejs-assignments"]
+	path = nodejs-assignments
+	url = https://github.com/AlreadyBored/nodejs-assignments.git
